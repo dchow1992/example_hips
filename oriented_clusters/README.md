@@ -1,6 +1,8 @@
 # Oriented Clusters
 
-## Description
-Example of oriented, clustered smoke sims. Utilizes PDG to support variable amounts of clusters
-
 #### Houdini 18.5.532
+
+## Description
+Example of oriented smoke sims, clustered by distance. Utilizes PDG to support variable amounts of clusters per missile
+![](preview/clustered_sims.gif)
+
