@@ -1,7 +1,6 @@
-# Reference hips
+# Oriented Clusters
 
 ## Description
-A collection of interesting hip files / techniques to use as examples or reference
+Example of oriented, clustered smoke sims. Utilizes PDG to support variable amounts of clusters
 
-### About
-* https://vimeo.com/dchow1992
+#### Houdini 18.5.532
